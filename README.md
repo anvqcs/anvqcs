@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <div style="align:left;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Vo+Quoc+An;CSharp+Developer;Full+stack+web+developer...;Software+Enginee;Contact:+anvqcs@gmail.com" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Vo+Quoc+An;CSharp+Developer;Fullstack++developer...;Software+Enginee;Contact:+anvqcs@gmail.com" />
 </div>
  <p>- <i>I have over 2 years of experience in software development, having worked in outsourcing companies. I have a solid foundation in C#/ASP.NET and am able to apply it effectively in my work. I aim to become a software developer with extensive expertise, continuously gaining more experience, and constantly learning to stay updated with new trends and knowledge.
  <br> <br>
